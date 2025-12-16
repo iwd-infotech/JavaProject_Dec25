@@ -18,7 +18,7 @@ public class EncapsulationConcept {
 	}
 
 	public void setName(String name) {
-		this.name = name;
+		this.name = name;  // confusion
 	}
 
 	public double getBalance() {
